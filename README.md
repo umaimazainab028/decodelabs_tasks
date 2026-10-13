@@ -44,9 +44,10 @@ This project uses Machine Learning to detect fraudulent credit card transactions
 - Matplotlib and Seaborn
 - Google Colab / Jupyter Notebook
 ## Project Files
-- `Credit_Card_Fraud_Detection.ipynb` — Notebook containing data preprocessing, model training, evaluation, and tuning.
-- `fraud_detection_results.csv` — CSV file containing model evaluation results.
-- `README.md` 
+
+- [Credit_Card_Fraud_Detection.ipynb](./Credit_Card_Fraud_Detection.ipynb) — Notebook containing data preprocessing, model training, evaluation, and tuning.
+- [fraud_detection_results.csv](./fraud_detection_results.csv) — CSV file containing model evaluation results.
+- [README.md](./README.md) — Project documentation.
 ## How to Run the Project
 1. Download or clone this repository.
 2. Open [Google Colab](https://colab.research.google.com/) or Jupyter Notebook.
